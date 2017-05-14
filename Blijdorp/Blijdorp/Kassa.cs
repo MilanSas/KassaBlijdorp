@@ -36,14 +36,14 @@ namespace Blijdorp
                 Console.Write(question);
                 string Answer = Console.ReadLine().ToLower();
 
-                if (Answer == "y" || Answer == "n")
+                if (Answer == "ja" || Answer == "nee")
                 {
-                    if (Answer == "y") { return true; }
+                    if (Answer == "j") { return true; }
 
                     else{return false;}
                     
                 }
-                Console.WriteLine("Antwoord met Y of N");
+                Console.WriteLine("Antwoord met Ja of Nee");
             }
         }
 
@@ -140,7 +140,11 @@ namespace Blijdorp
                             return;
                         }
 
-                        else { Console.WriteLine("Er is geen gehandicapte niks toegevoegd"); return;}
+                        else
+                        {
+                            Console.WriteLine("Er is geen gehandicapte, niks toegevoegd");
+                            return;
+                        }
                     }
                 }
 
