@@ -137,6 +137,7 @@ namespace Blijdorp
                         {
                             Console.WriteLine("added bergeleider");
                             klanten.Add(new Bergeleider());
+                            return;
                         }
 
                         else { Console.WriteLine("Er is geen gehandicapte niks toegevoegd"); return;}
