@@ -38,11 +38,10 @@ namespace Blijdorp
 
                 if (Answer == "y" || Answer == "n")
                 {
-                    switch (Answer)
-                    {
-                        case "y": return true;
-                        case "n": return false;
-                    }
+                    if (Answer == "y") { return true; }
+
+                    else{return false;}
+                    
                 }
                 Console.WriteLine("Antwoord met Y of N");
             }

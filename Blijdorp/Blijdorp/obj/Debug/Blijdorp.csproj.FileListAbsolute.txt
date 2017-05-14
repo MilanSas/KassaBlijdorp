@@ -4,3 +4,6 @@ C:\Users\Milan\Documents\Visual Studio 2015\Projects\Exercises Dev 2-4\Blijdorp\
 C:\Users\Milan\Documents\Visual Studio 2015\Projects\Exercises Dev 2-4\Blijdorp\Blijdorp\obj\Debug\Blijdorp.csprojResolveAssemblyReference.cache
 C:\Users\Milan\Documents\Visual Studio 2015\Projects\Exercises Dev 2-4\Blijdorp\Blijdorp\obj\Debug\Blijdorp.exe
 C:\Users\Milan\Documents\Visual Studio 2015\Projects\Exercises Dev 2-4\Blijdorp\Blijdorp\obj\Debug\Blijdorp.pdb
+C:\Users\Milan\Documents\GitHub\KassaBlijdorp\Blijdorp\Blijdorp\bin\Debug\Blijdorp.exe.config
+C:\Users\Milan\Documents\GitHub\KassaBlijdorp\Blijdorp\Blijdorp\obj\Debug\Blijdorp.exe
+C:\Users\Milan\Documents\GitHub\KassaBlijdorp\Blijdorp\Blijdorp\obj\Debug\Blijdorp.pdb
