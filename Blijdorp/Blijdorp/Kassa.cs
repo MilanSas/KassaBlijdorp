@@ -38,7 +38,7 @@ namespace Blijdorp
 
                 if (Answer == "ja" || Answer == "nee")
                 {
-                    if (Answer == "j") { return true; }
+                    if (Answer == "ja") { return true; }
 
                     else{return false;}
                     
